@@ -1,0 +1,87 @@
+*{
+    font-family: arial,sans-serif;
+}
+a{
+    font-family: arial,sans-serif;
+    font-size: small;
+    color: #3f3f3f;
+    text-decoration: none;
+}
+#header1{
+    font-size:small;
+    color: #3f3f3f;
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+}
+#header2{
+    color: #3f3f3f;
+    font-size: small;
+    margin-right: 1%;
+    margin-top: 1%;
+    float: right;
+}
+
+section{
+    text-align: center;
+}
+
+
+#logo{
+    padding-left: 12px;
+    margin: 10% 40% 1% 40%;
+}
+#formtest{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#searchbar{
+    margin-bottom: 20px;
+    margin-top: 0;
+    width: 90%;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+
+}
+
+#buttons{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+#bottomlinks1{
+    height: 30px;
+    display: inline-block;
+
+}
+#bottomLinks2{
+    padding-right: 10px;
+    height: 30px;
+    position: fixed;
+    right: 1px;
+    display: inline-block;
+}
+#mainfooter{
+    padding: 10px 10px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: #f2f2f2;
+}
+
+.footers{
+   text-decoration: none;
+    background: #f2f2f2;
+    font-size: 13pt;
+}
+body{
+    margin: 0;
+}
+.button1type{
+    border: none;
+    background: #f2f2f2;
+    height: 40px;
+    font-size: 10pt;
+}
